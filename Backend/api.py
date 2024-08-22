@@ -140,6 +140,3 @@ async def image_processing(file: UploadFile = File(...)) -> Dict[str, Union[str,
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.post('/test-upload')
-async def test_upload(file: UploadFile = File(...)):
-    return {"filename": file.filename}
