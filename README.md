@@ -41,5 +41,3 @@ To set up Colorwise AI locally, follow these steps:
    npm install
    npm run dev
    ```
-
-```
