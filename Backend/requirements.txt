@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+rembg
+numpy
+opencv-python-headless
+pillow
