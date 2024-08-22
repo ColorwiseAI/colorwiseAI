@@ -43,5 +43,3 @@ To set up Colorwise AI locally, follow these steps:
    ```
 
 ```
-
-Feel free to adjust any details as needed!
