@@ -20,4 +20,4 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone [https://github.com/yourusername/colorwise-ai.git](https://github.com/ColorwiseAI/colorwiseAI.git)
+   git clone https://github.com/ColorwiseAI/colorwiseAI.git
